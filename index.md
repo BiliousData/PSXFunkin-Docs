@@ -6,4 +6,4 @@ The content in this documentation is provided by modders such as **Lord Scout**,
 
 ### Resources
 
-(https://github.com/BiliousData/PSXFunkin-Docs/edit/gh-pages/index.md)[How to change things]
+<a href="RsStart.md" title="How to change things">About Me</a>
