@@ -1,7 +1,7 @@
 theme: jekyll-theme-dinky
 plugins:
   - jeklyy-relative-links
-releative links:
+relative links:
   enabled:true
   collections:true
 include:
