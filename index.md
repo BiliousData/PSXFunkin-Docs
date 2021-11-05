@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the documentation
 
-You can use the [editor on GitHub](https://github.com/BiliousData/PSXFunkin-Docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is documentation regarding how to change parts of PSXFunkin, such as how to add characters, add assets, change certain behaviors, and other things.
+The content in this documentation is provided by modders such as **Lord Scout**, **IgorSou3000**, **g3yt**, **DreamcastNick**, **UNSTOP4BLE** and **BiliousData**.
 
 ### Markdown
 
