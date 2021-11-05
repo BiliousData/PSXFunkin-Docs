@@ -4,3 +4,6 @@ plugins:
 releative links:
   enabled:true
   collections:true
+include:
+  -index.md
+  -RsStart.md
