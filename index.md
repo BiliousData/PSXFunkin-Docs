@@ -6,4 +6,4 @@ The content in this documentation is provided by modders such as **Lord Scout**,
 
 ### Resources
 
-<a href="RsStart.md" title="How to change things">About Me</a>
+<a href="RsStart.md" title="How to change things">How to change things</a>
